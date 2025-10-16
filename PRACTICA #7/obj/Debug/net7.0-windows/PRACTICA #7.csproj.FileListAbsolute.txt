@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\bin\Debug\net7.0-windows\PRACTICA #7.exe
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\bin\Debug\net7.0-windows\PRACTICA #7.deps.json
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\bin\Debug\net7.0-windows\PRACTICA #7.runtimeconfig.json
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\bin\Debug\net7.0-windows\PRACTICA #7.dll
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\bin\Debug\net7.0-windows\PRACTICA #7.pdb
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\PRACTICA__7.Form1.resources
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\PRACTICA #7.csproj.GenerateResource.cache
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\PRACTICA #7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\PRACTICA #7.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\PRACTICA #7.AssemblyInfo.cs
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\PRACTICA #7.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\PRACTICA #7.dll
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\refint\PRACTICA #7.dll
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\PRACTICA #7.pdb
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\PRACTICA #7.genruntimeconfig.cache
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net7.0-windows\ref\PRACTICA #7.dll

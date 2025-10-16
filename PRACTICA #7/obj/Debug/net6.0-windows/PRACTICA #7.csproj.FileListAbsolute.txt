@@ -1,0 +1,6 @@
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net6.0-windows\PRACTICA__7.Form1.resources
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net6.0-windows\PRACTICA #7.csproj.GenerateResource.cache
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net6.0-windows\PRACTICA #7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net6.0-windows\PRACTICA #7.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net6.0-windows\PRACTICA #7.AssemblyInfo.cs
+C:\Users\Alumnos\Documents\LJRC\PRACTICA #7\obj\Debug\net6.0-windows\PRACTICA #7.csproj.CoreCompileInputs.cache
